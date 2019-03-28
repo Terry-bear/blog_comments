@@ -1,2 +1,2 @@
-# blog_gitment
-save ment by blog
+# blog_comments
+save comments in blog.
